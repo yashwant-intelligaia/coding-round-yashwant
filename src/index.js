@@ -7,8 +7,8 @@ import Home from "./Home";
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <StrictMode>
-    {/* <App /> */}
-    <Home />
+    <App />
+    {/* <Home /> */}
   </StrictMode>,
   rootElement
 );
